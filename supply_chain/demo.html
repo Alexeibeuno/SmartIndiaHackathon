@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+        <title>Document</title>
+    </head>
+    <body>
+        <style>
+        /* NAVBAR STYLING STARTS */
+        .navbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px;
+            background-color: teal;
+            color: #fff;
+        }
+        .nav-links a {
+            color: #fff;
+        }
+        /* LOGO */
+        .logo {
+            font-size: 32px;
+        }
+        /* NAVBAR MENU */
+        .menu {
+            display: flex;
+            gap: 1em;
+            font-size: 18px;
+        }
+        .menu li:hover {
+            background-color: #4c9e9e;
+            border-radius: 5px;
+            transition: 0.3s ease;
+        }
+        .menu li {
+            padding: 5px 14px;
+        }
+        </style>
+        <nav class="navbar">
+            <!-- LOGO -->
+            <div class="logo">Inferno_</div>
+            <!-- NAVIGATION MENU -->
+            <ul class="nav-links">
+            <!-- USING CHECKBOX HACK -->
+            <input type="checkbox" id="checkbox_toggle" />
+            <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+            <!-- NAVIGATION MENUS -->
+            <div class="menu">
+                <li><a href="/"><i class="fas fa home"</i>Home</a></li>
+                <li><a href="/"><i class="fas fa truck"</i>Blockchain</a></li>
+                <li><a href="/"><i class="fas fa comments"</i>Bot</a></li>
+                <li><a href="/"><i class="fas fa-map-marker-alt"</i>Location Tracking</a></li>
+                <li><a href="/"><i class="fab fa-soundcloud"</i>GVC</a></li>
+                <li><a href="/"><i class="fas fa-bell"</i>Alerts</a></li>
+            </div>
+            </ul>
+        </nav>
+    </body>
+</html>

@@ -1,0 +1,2 @@
+Color codes:
+#dddfd4, #fae596, #3fb0ac, #173e43
