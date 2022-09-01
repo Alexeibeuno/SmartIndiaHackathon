@@ -1,0 +1,32 @@
+﻿OrderID,CustomerID,SupplierID,ShipperID,EmployeeID,ModeOfTransport,TransportStructure,ProductID,Price,Currency,NetTonnage,OrderDate,RequiredDATE,LoadingDate,ArrivalDate,LoadingAddress,LoadingCity,LoadingPostalCode,LoadingRegionID,LoadingCountryID,ShipAddress,ShipCity,ShipPostalCode,ShipRegionID,ShipCountryID
+1,BIO,Palova,6,MARKOW,road,palette,BASO,3000,PLN,20,2017-11-29,2017-12-14,2017-12-13,2017-12-15,471 Serangon,Dětenice,507-23,H,CZ,Rajska 10,Dobieszowice,42-582,SL,PL
+2,BIO,Plonsk,1,KATNOW,rail,iso-tank,REP1,2600,PLN,25,2017-12-01,2017-12-11,2017-12-07,2017-12-08,Warszawska 134,Płońsk,09-100,MZ,PL,Boya-Żeleńskiego 23,Brzoza,86-061,KP,PL
+3,MIN,Plutzer,2,MARKOW,road,palette,REP2,3600,PLN,22,2017-12-05,2017-12-22,2017-12-20,2017-12-22,Tiergartenstrae 5,Berlin,10785,BE,DE,Hoffmanna 56,Kraków,30-023,MA,PL
+4,BIO,Palova,3,KATNOW,rail,bulk,SANA,104000,PLN,1600,2017-12-15,2017-12-28,2017-12-27,2017-12-29,471 Serangon,Dětenice,507-23,H,CZ,Carl-Urlich Strasse 351,Frankfurt  am Main,60 306,HE,DE
+5,MIN,Pruszcz,6,MARKOW,road,tilt,STAB,2500,PLN,24,2017-12-20,2018-01-03,2018-01-02,2018-01-03,Bydgoska 12,Pruszcz,80-008,PM,PL,Waleniowa 125,Gdynia,81-008,PM,PL
+6,BIO,Palova,6,MARKOW,road,palette,BASO,1500,PLN,5,2017-12-28,2018-01-16,2018-01-10,2018-01-12,471 Serangon,Dětenice,507-23,H,CZ,Jana Kazimierza 97,Skierniewice,96-100,LD,PL
+7,LAN,Pruszcz,5,PAWDOB,sea,container,BASO,164890,PLN,2856.03,2018-01-04,2018-01-15,2018-01-11,2018-01-15,ul. Zamknięta 18,Gdańsk,80-955 ,PM,PL,Am Sandtorkai 13,Hamburg,20359,HE,DE
+8,MIN,Plonsk,6,MARKOW,road,iso-therm,REP1,8000,PLN,25,2018-01-05,2018-01-17,2018-01-15,2018-01-17,Warszawska 134,Płońsk,09-100,MZ,PL,Am Sandtorkai 13,Hamburg,20359,HE,DE
+9,PES,Plonsk,4,PAWDOB,sea,tank,REP1,10342,PLN,48,2018-01-05,2018-01-22,2018-01-15,2018-01-22,ul. Zamknięta 18,Gdańsk,80-955 ,PM,PL,Route de Mardyck 15,Dunkirk,59240,32,FR
+10,BIO,Plonsk,3,KATNOW,rail,tank,REP1,108000,PLN,1500,2018-01-10,2018-01-30,2018-01-29,2018-01-30,Warszawska 134,Płońsk,09-100,MZ,PL,Stodolní 840,Ostrava,720 00,T,CZ
+11,MIN,Plutzer,2,MARKOW,road,bulk,SANA,3900,PLN,24,2018-01-11,2018-01-19,2018-01-17,2018-01-19,Tiergartenstrae 5,Berlin,10785,BE,DE,Fleischnerova 507,Brno,625 00,B,CZ
+12,LAN,Plutzer,4,PAWDOB,sea,iso-tank,REP2,56850,PLN,360,2018-01-15,2018-01-30,2018-01-24,2018-01-29,ul. Bytomska 7,Szczecin, 70-603 ,ZP,PL,Wesloer Landstrasse 8,Lübeck,23569,SH,DE
+13,MIN,Plutzer,3,KATNOW,rail,tank,REP2,111600,PLN,1550,2018-01-17,2018-01-31,2018-01-29,2018-01-30,Tiergartenstrae 5,Berlin,10785,BE,DE,Herčíkova 259,Brno,625 00,B,CZ
+14,BIO,Plutzer,3,KATNOW,rail,container,SANA,34000,PLN,800,2018-01-19,2018-02-05,2018-02-05,2018-02-06,Tiergartenstrae 5,Berlin,10785,BE,DE,Warszawska 34,Szczecin,71-344,ZP,PL
+15,PES,Plutzer,5,PAWDOB,sea,bulk,SANA,334128,PLN,2750,2018-01-26,2018-02-09,2018-02-05,2018-02-09,ul. Bytomska 7,Szczecin, 70-603 ,ZP,PL,Hohe Düne 23,Rostock,18146,MV,DE
+16,MIN,Palova,2,MARKOW,road,palette,REP2,6000,PLN,5,2018-02-01,2018-02-15,2018-02-12,2018-02-15,471 Serangon,Dětenice,507-23,H,CZ,Admirala Fokina 35,Wladivostok,690017,FarEast,RU
+17,MIN,Palova,1,KATNOW,rail,iso-tank,REP2,90000,PLN,600,2018-02-05,2018-02-28,2018-02-26,2018-02-28,471 Serangon,Dětenice,507-23,H,CZ,P545 20,Fos-sur-Mer,13270,93,FR
+18,LAN,Plutzer,5,PAWDOB,sea,tank,REP2,113455,PLN,1530,2018-02-05,2018-02-16,2018-02-12,2018-02-16,ul. Zamknięta 18,Gdańsk,80-955 ,PM,PL,Kattwykdamm 153,Hamburg,20359,HE,DE
+19,BIO,Pruszcz,2,MARKOW,road,palette,BASO,1500,PLN,1,2018-02-07,2018-02-20,2018-02-16,2018-02-19,Bydgoska 12,Pruszcz,80-008,PM,PL,Rue Paradis 1,Marsylie,13007,93,FR
+20,BIO,Palova,2,MARKOW,road,container,BASO,12000,PLN,24,2018-02-12,2018-03-02,2018-03-27,2018-03-02,471 Serangon,Dětenice,507-23,H,CZ,Rue Claude Decaen 156,Paris,75007,11,FR
+21,BIO,Palova,6,MARKOW,road,palette,BASO,150,PLN,1,2018-02-14,2018-03-02,2018-03-30,2018-03-30,471 Serangon,Dětenice,507-23,H,CZ,Tadeusza Kościuszki 25,Częstochowa,42-224,SL,PL
+22,LAN,Pruszcz,6,MARKOW,road,palette,STAB,18000,PLN,34,2018-02-16,2018-03-05,2018-03-01,2018-03-05,Bydgoska 12,Pruszcz,80-008,PM,PL,Rue Delbos 22,Bordeaux,33100,75,FR
+23,LAN,Pruszcz,5,PAWDOB,sea,container,STAB,307122,PLN,3037,2018-02-20,2018-03-20,2018-03-16,2018-03-20,ul. Bytomska 7,Szczecin, 70-603 ,ZP,PL,Ulitsa Dmitriya Donskogo 24,Kaliningrad,238310,Northwest,RU
+24,MIN,Pruszcz,2,MARKOW,road,tilt,STAB,13000,PLN,48,2018-02-26,2018-03-15,2018-03-12,2018-03-14,Bydgoska 12,Pruszcz,80-008,PM,PL,Lipschitzallee 199,Berlin,10409,BE,DE
+25,PES,Plutzer,5,PAWDOB,sea,container,SANA,118446,PLN,2875,2018-02-27,2018-03-21,2018-03-16,2018-03-21,ul. Bytomska 7,Szczecin, 70-603 ,ZP,PL,Osterholzer Heerstraße 78,Bremen,28309,HB,DE
+26,BIO,Palova,2,MARKOW,road,palette,REP2,900,PLN,2,2018-03-03,2018-03-13,2018-03-12,2018-03-13,471 Serangon,Dětenice,507-23,H,CZ,Poznańska 9,Otwock,05-402,MZ,PL 
+27,BIO,Palova,6,MARKOW,road,iso-tank,REP2,2900,PLN,25,2018-03-05,2018-03-16,2018-03-15,2018-03-16,471 Serangon,Dětenice,507-23,H,CZ,Grunwaldzka 75,Łomża,18-400,PD,PL 
+28,BIO,Palova,2,MARKOW,road,tank,REP2,2800,PLN,25,2018-03-09,2018-03-29,2018-03-27,2018-03-28,471 Serangon,Dětenice,507-23,H,CZ,Kowalska 5,Płock,09-401,MZ,PL
+29,LAN,Palova,4,PAWDOB,sea,container,BASO,620943,PLN,5924,2018-03-13,2018-04-04,2018-03-30,2018-04-04,ul. Zamknięta 18,Gdańsk,80-955 ,PM,PL,Faidherbe 74,Dunkirk,59240,32,FR
+30,LAN,Pruszcz,3,KATNOW,rail,container,STAB,84000,PLN,1200,2018-03-15,2018-03-29,2018-03-29,2018-03-29,Bydgoska 12,Pruszcz,80-008,PM,PL,Niepodległości 809,Gdynia,81-008,PM,PL
+,,,,,,,,,,,,,,,,,,,,,,,,
