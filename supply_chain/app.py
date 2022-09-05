@@ -12,7 +12,7 @@ import requests
 
 
 # Token provided by @ BotFather
-TOKEN = '5681777512:AAH1wKUPgsIR6n9fcdkJo6P_KsVcSExz_iw'
+TOKEN = 'your token number'
 # Your Heroku App Page
 APP_NAME = 'https://infernologistics.herokuapp.com/'
 # Port
